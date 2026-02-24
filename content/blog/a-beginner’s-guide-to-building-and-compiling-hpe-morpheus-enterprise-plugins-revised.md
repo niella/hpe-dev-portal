@@ -8,8 +8,6 @@ disable: false
 ---
 ![]()
 
-
-
 ## Introduction
 
 HPE Morpheus Enterprise is a hybrid cloud platform that unifies diverse products and technologies into a consistent workload-lifecycle orchestration, governance, and control framework.
@@ -52,3 +50,8 @@ java -version
 
 ## Creating a plugin project
 
+Creating a project that compiles code into usable plugins can be a daunting task, especially for developers who are not familiar with Java, Groovy, or Gradle.
+
+To simplify this process and make it easier for potential plugin builders to get started, the HPE Morpheus Enterprise engineering team created the Morpheus Plugin Code Generator. The ["Getting Started" section of the HPE Morpheus Enterprise Developer Documentation](https://developer.morpheusdata.com/docs#_getting-started) has a comprehensive section on how to construct a plugin project.
+
+This article
