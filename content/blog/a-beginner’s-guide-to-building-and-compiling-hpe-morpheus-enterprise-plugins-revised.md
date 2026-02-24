@@ -83,8 +83,8 @@ Unzip the plugin project for use in an IDE. For this example, we will unzip the 
 
 Adding logic and complexity to a working plugin is an exercise in object-oriented programming. Writing code in plain text editors can be tedious, time-consuming, and error prone. To make development easier, use an IDE such as Visual Studio Code.
 
-
-
 Although this simple demo example uses Visual Studio Code, several more powerful Java/Groovy IDEs are available, including products like IntelliJ IDEA, Eclipse, and NetBeans.
 
 Open ***Visual Studio Code*** and select ***Open Folder*** from the ***File*** menu:
+
+![Open project in VS Code](/img/vscode_open_project.png)
