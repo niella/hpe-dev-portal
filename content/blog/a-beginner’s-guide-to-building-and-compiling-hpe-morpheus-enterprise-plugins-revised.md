@@ -50,5 +50,5 @@ java -version
 
 ![](/img/install_java.png)
 
-
+## Creating a plugin project
 
