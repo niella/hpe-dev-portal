@@ -59,3 +59,22 @@ This article uses the Plugin Code Generator tool. Using a web browser, navigate 
 ![Morpheus Developer Site](/img/developer_site.png)
 
 Use the following field values for this demo example:
+
+- - -
+
+|                       |                     |
+| --------------------- | ------------------- |
+| **Name:**             | Plugin Demo         |
+| **Code:**             | pluginDemo          |
+| **Morpheus Version:** | 8.0.X               |
+| **Language:**         | Groovy              |
+| **Base Package:**     | com.example         |
+| **Providers:**        | Generic Integration |
+
+- - -
+
+![Generate Plugin Project](/img/generate_plugin.png)
+
+Unzip the plugin project for use in an IDE. For this example, we will unzip the plugin to the Windows Documents folder:
+
+![Extracted Plugin Project](/img/plugin_extracted.png)
