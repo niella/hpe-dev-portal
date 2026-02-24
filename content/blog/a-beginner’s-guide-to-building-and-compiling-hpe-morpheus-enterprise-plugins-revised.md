@@ -38,11 +38,15 @@ When using JDK 17, the project’s compile ***compatibility level is set to vers
 
 To install the OpenJDK 17 distribution via the Microsoft Store, open a Windows command prompt (Press Win + R or click Start, type cmd, press enter), then run the following install command:
 
-`winget install jdkbuild.openjdk.17.jdk`
+```bash
+winget install jdkbuild.openjdk.17.jdk
+```
 
 To verify the OpenJDK install, run:
 
-`java -version`
+```bash
+java -version
+```
 
 ![](/img/install_java.png)
 
