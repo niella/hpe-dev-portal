@@ -24,7 +24,7 @@ This article covers the process of generating and compiling a basic HPE Morpheus
 * Compiling the plugin remotely on Linux, using Visual Studio Code
 * Compiling the plugin using Docker
 
-## JDK Prerequisite
+## JDK & demo lab prerequisites
 
 The demonstration lab used for this article is based on a ***Windows 11 host*** with internet access and ***Visual Studio Code*** installed.
 
@@ -52,6 +52,10 @@ java -version
 
 Creating a project that compiles code into usable plugins can be a daunting task, especially for developers who are not familiar with Java, Groovy, or Gradle.
 
-To simplify this process and make it easier for potential plugin builders to get started, the HPE Morpheus Enterprise engineering team created the Morpheus Plugin Code Generator. The ["Getting Started" section of the HPE Morpheus Enterprise Developer Documentation](https://developer.morpheusdata.com/docs#_getting-started) has a comprehensive section on how to construct a plugin project.
+To simplify this process and make it easier for potential plugin builders to get started, the HPE Morpheus Enterprise engineering team created the Plugin Code Generator. The ["Getting Started" section of the HPE Morpheus Enterprise Developer Documentation](https://developer.morpheusdata.com/docs#_getting-started) has a comprehensive section on how to construct a plugin project.
 
-This article
+This article uses the Plugin Code Generator tool. Using a web browser, navigate to <https://developer.morpheusdata.com/>. Click the ***GET STARTED NOW*** button:
+
+![Morpheus Developer Site](/img/developer_site.png)
+
+Use the following field values for this demo example:
